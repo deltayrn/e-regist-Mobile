@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">E-Regist</string>
+
+    <!-- Login Page -->
+    <string name="login_login">Login</string>
+    <string name="login_input_email">Masukkan Email</string>
+    <string name="login_input_password">Masukkan Password</string>
+    <string name="login_action">Login !</string>
+    <string name="login_dont_have_account">Tidak memiliki akun? -  </string>
+    <string name="login_register">&#160;<b><u>Buat Akun Baru</u></b></string>
+
+    <!-- Register Page -->
+    <string name="register">Register</string>
+    <string name="register_fullname">Masukkan Nama Lengkap</string>
+    <string name="register_email">Masukkan Alamat Email</string>
+    <string name="register_password">Masukkan Password Baru</string>
+    <string name="register_password_check">Masukkan Password Kembali</string>
+    <string name="register_action">Buat Akun Baru !</string>
+
+    <!--  Main Page  -->
+    <string name="title_document">Document</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <!--  Dashboard  -->
+    <string name="dashboard_buat_ktp">Buat KTP</string>
+    <string name="dashboard_update_ktp">Update KTP</string>
+    <string name="dashboard_buat_kk">Buat KK</string>
+    <string name="dashboard_update_kk">Update KK</string>
+
+    <string-array name="jenisKelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+    </string-array>
+    <string-array name="status">
+        <item>Belum Kawin</item>
+        <item>Kawin</item>
+        <item>Cerai</item>
+    </string-array>
+</resources>

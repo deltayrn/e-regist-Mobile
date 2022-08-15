@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410361002668",
+    "firebase_url": "https://delta-eregist.firebaseio.com",
+    "project_id": "delta-eregist",
+    "storage_bucket": "delta-eregist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410361002668:android:a6e099ff05e9b4805cfd09",
+        "android_client_info": {
+          "package_name": "com.delta.eregist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410361002668-v9qqah2fnfmjmlaemr8mo07alobd72bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delta.eregist",
+            "certificate_hash": "bcbcc9a6698de0af4ba54390df143c116102470c"
+          }
+        },
+        {
+          "client_id": "410361002668-3vvps5d4464ro4k1ncgkvk5gjotpv29b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmBDFTkG789h3oBH3fE-JfGgFpzI8Zdog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410361002668-3vvps5d4464ro4k1ncgkvk5gjotpv29b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

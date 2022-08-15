@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ERegist" parent="Theme.MaterialComponents.Light">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/md_blue_400</item>
+        <item name="colorPrimaryVariant">@color/md_blue_300</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/md_light_blue_200</item>
+        <item name="colorSecondaryVariant">@color/md_light_blue_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="toolbarStyle">@style/Theme.ERegist.ActionBarStyle</item>
+        <!--        <item name="android:background">@color/backgroundColor</item>-->
+    </style>
+
+    <style name="Theme.ERegist.ActionBarStyle" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">?attr/colorPrimary</item>
+    </style>
+
+    <style name="Theme.ERegist.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ERegist.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ERegist.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
